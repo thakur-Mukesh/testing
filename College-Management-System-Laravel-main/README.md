@@ -1,0 +1,2 @@
+-   LOGIN DETAILS : 
+-   Admin : email = admin@gmail.com, password = admin123 and Role: Admin
